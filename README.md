@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Vinayak-RZ
-- 👀 I’m interested in Competetive Programming
-- 🌱 I’m currently ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 9264967809
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Vinayak Raizada
 
-<!---
-Vinayak-RZ/Vinayak-RZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a first-year B.Tech student at IIT Roorkee and a passionate developer with interests across software engineering and game development.I love building things — from web apps to 2D games — and constantly exploring how things work under the hood.
