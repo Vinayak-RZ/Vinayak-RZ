@@ -118,12 +118,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vinayak-RZ/Vinayak-RZ/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ⭐️ From [Vinayak-RZ](https://github.com/Vinayak-RZ)
