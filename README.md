@@ -9,7 +9,7 @@
 ## About Me
 
 - 🔭I'm currently working on **[Realms of Aether](https://github.com/mdgspace/Realms-Of-Aether)**, **[Keriso](https://github.com/mdgspace/keriso)** and **[DistroHopper](https://github.com/mdgspace/sysreplicate)**
-- 🔧 Currently exploring **Shaders, Systems Programming in Go**,**Angentic Ai, RAG** and **BlockChain**.
+- 🔧 Currently learning **Shaders, Systems Programming, Operating System** and **BlockChain**.
 - 🧠 Passionate about **AI, Game Development, Low Level Programming, BlockChain and CP**.
 - 🛠️ Member of **MDG @ IIT Roorkee**.
 - 👯 I'm looking to collaborate on **Anything related to Ai, Games, Blockchain and Compiler Design**
