@@ -1,19 +1,19 @@
 # Hey there! I'm Vinayak Raizada
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Game+Developer+%7C+Tech+Enthusiast;Mobile+%7C+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Game+Developer+%7C+Web3+Enthusiast;Mobile+%7C+Web+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## About Me
 
-- 🔭I'm currently working on **[Realms of Aether](https://github.com/mdgspace/Realms-Of-Aether)**, **[Keriso](https://github.com/mdgspace/keriso)** and **[DistroHopper](https://github.com/mdgspace/sysreplicate)**
-- 🔧 Currently learning **Shaders, Systems Programming, Operating System** and **BlockChain**.
-- 🧠 Passionate about **AI, Game Development, Low Level Programming, BlockChain and CP**.
-- 🛠️ Member of **MDG @ IIT Roorkee**.
-- 👯 I'm looking to collaborate on **Anything related to Ai, Games, Blockchain and Compiler Design**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vinayak-raizada/) | [Email](mailto:vinayakraizada03@gmail.com)
+- I'm currently working on **[Realms of Aether](https://github.com/mdgspace/Realms-Of-Aether)**, **[Keriso](https://github.com/mdgspace/keriso)** and **[DistroHopper](https://github.com/mdgspace/sysreplicate)**
+- Currently learning **Systems Programming, Operating System** ,**BlockChain** and **Defi**.
+- Passionate about **Game Development, Low Level Programming, Web3-Defi and Development in General**.
+- Member of **MDG @ IIT Roorkee**.
+- I'm looking to collaborate on **Anything related to Games, Blockchain, Low-Level or System Design**
+- Reach me: [LinkedIn](https://www.linkedin.com/in/vinayak-raizada/) | [Email](mailto:vinayakraizada03@gmail.com)
 
 ---
 
@@ -80,10 +80,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vinayak-RZ&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+- **Winner – ETHGlobal New Delhi 2025- Flow Track**  
+  Built a blockchain-powered fantasy RPG built with Unity that blends immersive gameplay with decentralized infrastructure.
+  [Arcane:COE](https://github.com/Vinayak-RZ/Arcane-ChainsOfEternity)*
+
+- **Winner – Maxially Hackathon 2025**  
+  Build a comprehensive AI-powered activity intelligence platform that transforms how you understand and optimize your digital workflow  
+  [Chronicle](https://github.com/officiallyutso/chronicle)
+
 </div>
 
 ---
@@ -92,13 +108,13 @@
 
 <div align="center">
 
+**[Chrono](https://github.com/ArcaneStdio/Chrono)**
+
 **[Astrikos - Intelligent Infrastructure Visualization Platform](https://github.com/officiallyutso/astrikos-high-prep)**  
 
-**[Realms Of Aether](https://github.com/mdgspace/Realms-Of-Aether)**  
+**[Arcane: ChainsOfEternity](https://github.com/ArcaneStdio/Chains-Of-Eternity)**  
 
-**[Chronicle-AI](https://github.com/officiallyutso/chronicle)**
-
-**[Consumer-Compass](https://github.com/Sanat-Jha/Consumer-Compass)**  
+**[CyroFuzion](https://github.com/Vinayak-RZ/CyroFuzion)**  
 
 **[Elastic-Expedition](https://github.com/Vinayak-RZ/Elastic-Expedition)**
 
@@ -106,7 +122,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -118,4 +134,4 @@
 
 ---
 
-⭐️ From [Vinayak-RZ](https://github.com/Vinayak-RZ)
+From [Vinayak-RZ](https://github.com/Vinayak-RZ)
