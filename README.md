@@ -8,10 +8,12 @@
 
 ## About Me
 
-- I'm currently working on **[Realms of Aether](https://github.com/mdgspace/Realms-Of-Aether)**, **[Keriso](https://github.com/mdgspace/keriso)** and **[DistroHopper](https://github.com/mdgspace/sysreplicate)**
-- Currently learning **Systems Programming, Operating System** ,**BlockChain** and **Defi**.
+- I'm currently working on **[WaterMark Library](https://github.com/Stamp-ed/resilient-watermarking-pipeline)** , **[Keriso](https://github.com/mdgspace/keriso)** and **[Chrono](https://github.com/ArcaneStdio/Chrono)**
+- Currently learning about **Systems Design, Operating System ,Compilers** and **BlockChain**.
 - Passionate about **Game Development, Low Level Programming, Web3-Defi and Development in General**.
 - Member of **MDG @ IIT Roorkee**.
+- I'm a part of **[Arcane Studio](https://github.com/ArcaneStdio)** and **[Stamp-ed]()**
+- Currently a Sophomore pursuing **Electrical Engineering** at **IIT Roorkee**
 - I'm looking to collaborate on **Anything related to Games, Blockchain, Low-Level or System Design**
 - Reach me: [LinkedIn](https://www.linkedin.com/in/vinayak-raizada/) | [Email](mailto:vinayakraizada03@gmail.com)
 
@@ -94,7 +96,7 @@
 
 - **Winner – ETHGlobal New Delhi 2025- Flow Track**  
   Built a blockchain-powered fantasy RPG built with Unity that blends immersive gameplay with decentralized infrastructure.
-  [Arcane:COE](https://github.com/Vinayak-RZ/Arcane-ChainsOfEternity)*
+  [Arcane:COE](https://github.com/Vinayak-RZ/Arcane-ChainsOfEternity)
 
 - **Winner – Maxially Hackathon 2025**  
   Build a comprehensive AI-powered activity intelligence platform that transforms how you understand and optimize your digital workflow  
