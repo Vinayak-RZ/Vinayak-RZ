@@ -95,7 +95,7 @@ Reach me:
 
 ### [ContentOS](https://github.com/Vinayak-RZ/Content-OS)
 
-Composable content and workflow system exploring structured content pipelines and operational tooling.
+Content OS for discovering ideas, drafting in your voice and publishing on your terms.
 
 ### [Chronicle](https://github.com/officiallyutso/chronicle)
 
