@@ -11,11 +11,11 @@
 * Building **Stamped**
 * Developer at **MDG Space @ IIT Roorkee**
 * Sophomore pursuing **Electrical Engineering @ IIT Roorkee**
-* Interested in **Systems, Interactive Applications, Applied AI, Enterprise AI, Distributed Systems and Low-Level Programming**
+* Worked across **AI systems, Web/App Dev, Game Dev, Image Processing, Web3 and Graphics**
+* Interested in **Applied AI, Distributed Systems and Making Products that actually create value**
 * Strong focus on **System Design (HLD/LLD), Game Architecture and Infrastructure**
-* Worked across **AI systems, Web platforms, Image Processing, Web3 and Graphics**
-* Research interests include **Steganography, Resilient Watermarking and Verification Systems**
-* Looking to collaborate on **Systems, Games, Infrastructure and Open Technical Problems**
+* Research interests include **Stegnography ,Distributed Inference or Training**
+* Looking to collaborate on **Actually solving problems with Tech**
 
 Reach me:
 [LinkedIn](https://www.linkedin.com/in/vinayak-rz/) • [Email](mailto:vinayakraizada@gmail.com)
