@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-label="Vinayak Raizada  Founder, Systems, Industrial AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12161c"/>
+      <stop offset="55%" stop-color="#171d26"/>
+      <stop offset="100%" stop-color="#1a222e"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c96a2b"/>
+      <stop offset="50%" stop-color="#e08a3a"/>
+      <stop offset="100%" stop-color="#c96a2b"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#2a3340" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="280" fill="url(#bg)"/>
+  <rect width="1100" height="280" fill="url(#grid)" opacity="0.55"/>
+
+  <!-- schematic frame -->
+  <rect x="24" y="24" width="1052" height="232" fill="none" stroke="#3a4556" stroke-width="1.2"/>
+  <rect x="32" y="32" width="1036" height="216" fill="none" stroke="#2f3848" stroke-width="0.8" stroke-dasharray="4 6"/>
+
+  <!-- corner ticks -->
+  <path d="M40 48 H56 M40 48 V64" stroke="#e08a3a" stroke-width="2" fill="none"/>
+  <path d="M1060 48 H1044 M1060 48 V64" stroke="#e08a3a" stroke-width="2" fill="none"/>
+  <path d="M40 232 H56 M40 232 V216" stroke="#e08a3a" stroke-width="2" fill="none"/>
+  <path d="M1060 232 H1044 M1060 232 V216" stroke="#e08a3a" stroke-width="2" fill="none"/>
+
+  <!-- circuit traces -->
+  <path d="M80 210 H220 V170 H310" fill="none" stroke="#3d4a5c" stroke-width="1.5"/>
+  <circle cx="310" cy="170" r="4" fill="#e08a3a"/>
+  <path d="M820 70 H960 V110 H1020" fill="none" stroke="#3d4a5c" stroke-width="1.5"/>
+  <circle cx="820" cy="70" r="4" fill="#e08a3a"/>
+  <path d="M90 70 H160 V100" fill="none" stroke="#3d4a5c" stroke-width="1.5"/>
+  <circle cx="160" cy="100" r="3.5" fill="#7a8799"/>
+
+  <text x="550" y="58" text-anchor="middle" fill="#8b97a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="4">DRAWING NO. VRZ-001 · REV. PROFILE</text>
+
+  <text x="550" y="128" text-anchor="middle" fill="#f2eee8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700" letter-spacing="3">VINAYAK RAIZADA</text>
+
+  <rect x="390" y="148" width="320" height="3" fill="url(#copper)" rx="1"/>
+
+  <text x="550" y="186" text-anchor="middle" fill="#e08a3a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="2">FOUNDER  ·  SYSTEMS  ·  INDUSTRIAL AI</text>
+
+  <text x="550" y="222" text-anchor="middle" fill="#8b97a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">IIT ROORKEE EE  ·  MDG SPACE  ·  BUILDING STAMPED</text>
+</svg>
