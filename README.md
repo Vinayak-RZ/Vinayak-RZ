@@ -1,100 +1,100 @@
 # Hey there! I'm Vinayak Raizada
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Founder+%7C+Systems+%7C+Industrial+AI;Agentic+Systems+%7C+Game+Dev;IIT+Roorkee+%7C+Building+in+Public" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Founder+%7C+Systems+%7C+Industrial+AI;Agentic+Systems+%7C+Game+Dev;IIT+Roorkee+%7C+Building+in+Public)
 
 ---
 
 ## About Me
 
-* Founder building **[Stamped](https://stamped.work)** — AI Intelligence for Industries
-* Technical founder — product, architecture, and engineering end-to-end
-* Developer at **MDG Space @ IIT Roorkee**
-* Pursuing **Electrical Engineering @ IIT Roorkee**
-* Currently deep in **agentic systems**
-* Background across **AI systems, Web/App Dev, Game Dev, Image Processing, Web3, Graphics, and Systems/Infra**
-* Interested in **Applied AI, Distributed Systems, and products that create real value**
-* Strong focus on **System Design (HLD/LLD), Game Architecture, and Infrastructure**
-* Open to collaborating on **hard technical problems which create real world impact**
+- Founder building **[Stamped](https://stamped.work)**  - AI Intelligence for Industries
+- Technical founder - product, architecture, marketing, stratergy and engineering.
+- Developer at **MDG Space @ IIT Roorkee**
+- Pursuing **Electrical Engineering @ IIT Roorkee**
+- Currently deep in **agentic systems**
+- Background across **AI systems, Web/App Dev, Game Dev, Image Processing, Web3, Graphics, and Systems/Infra**
+- Interested in **Applied AI, Distributed Systems, and products that create real value**
+- Strong focus on **System Design (HLD/LLD), Game Architecture, and Infrastructure**
+- Open to collaborating on **hard technical problems which create real world impact**
 
 More about me on [LinkedIn](https://www.linkedin.com/in/vinayak-rz/).  
 Reach me: [LinkedIn](https://www.linkedin.com/in/vinayak-rz/) • [Email](mailto:vinayakraizada@gmail.com)
 
 ---
 
+
+
 ## Tech Stack
 
-<div align="center">
+
 
 ### Languages
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Backend / Systems
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### AI / Agents
 
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-5A67D8?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Frontend / Apps
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Game Engines / Graphics
 
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GLSL](https://img.shields.io/badge/-GLSL-FF1493?style=for-the-badge)
 
 ### Blockchain / Web3
 
-![Blockchain](https://img.shields.io/badge/-Blockchain-121212?style=for-the-badge\&logo=bitcoin\&logoColor=orange)
-![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=orange)
+![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 ![ZK Proofs](https://img.shields.io/badge/-Zero--Knowledge%20Proofs-1E90FF?style=for-the-badge)
 
-</div>
-
 ---
+
+
 
 ## Streak Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-RZ&theme=tokyonight" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-RZ&theme=tokyonight)
 
 ---
+
+
 
 ## Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-RZ&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak-RZ&theme=tokyo-night&hide_border=true)
 
 ---
 
+
+
 ## Featured Projects
 
-<div align="center">
+
 
 ### [ARC](https://github.com/Vinayak-RZ/ARC)
 
@@ -103,6 +103,10 @@ Open-source agentic electrical engineer — packs, lab workflows, and verified n
 ### [WABOX](https://github.com/Vinayak-RZ/WABOX)
 
 Lightweight native Windows sandbox for AI agents, built for sub-agents and swarms.
+
+### [Improveness](https://github.com/Vinayak-RZ/Improveness)
+
+Host plugin that turns a coding assistant into a self-improving harness without replacing it.
 
 ### [ContentOS](https://github.com/Vinayak-RZ/Content-OS)
 
@@ -124,36 +128,16 @@ Time-aware DeFi lending protocol with deterministic expiries and custom financia
 
 Signal-processing based invisible watermarking resilient to compression and transforms.
 
-</div>
-
 ---
 
-## Achievements
 
-<div align="center">
-
-**ETHGlobal New Delhi — Winner (Flow Track)**
-**Technical GC IIT Roorkee — Gold**
-**Maximally Hackathon — Silver**
-
-</div>
-
----
 
 ## Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vinayak-rz/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Vinayak-RZ)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vinayakraizada@gmail.com)
-
-</div>
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
-<div align="center">
-
 Systems • Agentic Systems • Industrial AI
-
-</div>
