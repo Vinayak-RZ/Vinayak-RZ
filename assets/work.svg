@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#0a0a0a"/>
+
+  <text x="60" y="55" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="13" letter-spacing="4">02  -  SELECTED WORK</text>
+  <text x="60" y="100" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Things I actually shipped.</text>
+
+  <rect x="60" y="140" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="60" y="140" width="8" height="110" fill="#e11d48"/>
+  <text x="90" y="180" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">01</text>
+  <text x="90" y="210" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">ARC</text>
+  <text x="90" y="235" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Open-source agentic electrical engineer</text>
+
+  <rect x="620" y="140" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="620" y="140" width="8" height="110" fill="#e11d48"/>
+  <text x="650" y="180" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">02</text>
+  <text x="650" y="210" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">WABOX</text>
+  <text x="650" y="235" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Native Windows sandbox for AI agents</text>
+
+  <rect x="60" y="270" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="60" y="270" width="8" height="110" fill="#e11d48"/>
+  <text x="90" y="310" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">03</text>
+  <text x="90" y="340" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">IMPROVENESS</text>
+  <text x="90" y="365" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Self-improving harness plugin for your host</text>
+
+  <rect x="620" y="270" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="620" y="270" width="8" height="110" fill="#e11d48"/>
+  <text x="650" y="310" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">04</text>
+  <text x="650" y="340" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">CONTENT OS</text>
+  <text x="650" y="365" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Ideas to voice to publish, on your terms</text>
+
+  <rect x="60" y="400" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="60" y="400" width="8" height="110" fill="#e11d48"/>
+  <text x="90" y="440" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">05</text>
+  <text x="90" y="470" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">ARCANE</text>
+  <text x="90" y="495" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Skill-based Web3 RPG - gameplay + on-chain</text>
+
+  <rect x="620" y="400" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="620" y="400" width="8" height="110" fill="#e11d48"/>
+  <text x="650" y="440" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">06</text>
+  <text x="650" y="470" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">CYROFUZION</text>
+  <text x="650" y="495" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Ethereum to StarkNet cross-chain swaps</text>
+
+  <rect x="60" y="530" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="60" y="530" width="8" height="110" fill="#e11d48"/>
+  <text x="90" y="570" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">07</text>
+  <text x="90" y="600" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">CHRONO</text>
+  <text x="90" y="625" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Time-aware DeFi lending - deterministic expiries</text>
+
+  <rect x="620" y="530" width="520" height="110" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+  <rect x="620" y="530" width="8" height="110" fill="#e11d48"/>
+  <text x="650" y="570" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12">08</text>
+  <text x="650" y="600" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">WATERMARKING</text>
+  <text x="650" y="625" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="13">Invisible marks that survive compression</text>
+
+  <text x="60" y="690" fill="#525252" font-family="Consolas, Monaco, monospace" font-size="12">links below - click through to repos</text>
+</svg>

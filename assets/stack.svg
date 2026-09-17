@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <rect width="1200" height="220" fill="#f4f4f5"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#0a0a0a"/>
+
+  <text x="60" y="50" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="13" letter-spacing="4">03  -  TOOLING</text>
+
+  <text x="60" y="95" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700">lang</text>
+  <text x="120" y="95" fill="#0a0a0a" font-family="Consolas, Monaco, monospace" font-size="16">C++  Python  Go  TS  JS  C#  Solidity</text>
+
+  <text x="60" y="130" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700">sys</text>
+  <text x="120" y="130" fill="#0a0a0a" font-family="Consolas, Monaco, monospace" font-size="16">Node  Docker  AWS  Linux  LangChain  Cursor</text>
+
+  <text x="60" y="165" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700">app</text>
+  <text x="120" y="165" fill="#0a0a0a" font-family="Consolas, Monaco, monospace" font-size="16">React  Electron  Flutter  Unity  Godot  GLSL</text>
+
+  <text x="60" y="200" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="16" font-weight="700">web3</text>
+  <text x="120" y="200" fill="#0a0a0a" font-family="Consolas, Monaco, monospace" font-size="16">Chainlink  ZK  StarkNet  Solidity</text>
+</svg>

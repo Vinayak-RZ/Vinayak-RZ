@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#f4f4f5"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#0a0a0a"/>
+  <rect x="0" y="412" width="1200" height="8" fill="#0a0a0a"/>
+
+  <text x="60" y="58" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="13" letter-spacing="4">01  -  ABOUT</text>
+  <text x="60" y="100" fill="#0a0a0a" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Built different.</text>
+  <text x="60" y="132" fill="#0a0a0a" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Ships anyway.</text>
+
+  <line x1="60" y1="158" x2="280" y2="158" stroke="#e11d48" stroke-width="4"/>
+
+  <text x="60" y="200" fill="#27272a" font-family="Consolas, Monaco, monospace" font-size="15">&gt;  Founder, Stamped - AI Intelligence for Industries</text>
+  <text x="60" y="230" fill="#27272a" font-family="Consolas, Monaco, monospace" font-size="15">&gt;  Technical founder: product / architecture / strategy / eng</text>
+  <text x="60" y="260" fill="#27272a" font-family="Consolas, Monaco, monospace" font-size="15">&gt;  Developer, MDG Space @ IIT Roorkee</text>
+  <text x="60" y="290" fill="#27272a" font-family="Consolas, Monaco, monospace" font-size="15">&gt;  Electrical Engineering @ IIT Roorkee</text>
+  <text x="60" y="320" fill="#27272a" font-family="Consolas, Monaco, monospace" font-size="15">&gt;  Currently deep in agentic systems</text>
+  <text x="60" y="350" fill="#27272a" font-family="Consolas, Monaco, monospace" font-size="15">&gt;  AI / Games / Web3 / Graphics / Systems / Image Processing</text>
+  <text x="60" y="380" fill="#27272a" font-family="Consolas, Monaco, monospace" font-size="15">&gt;  Open to hard problems with real-world impact</text>
+
+  <rect x="900" y="60" width="240" height="300" fill="#0a0a0a"/>
+  <text x="1020" y="110" text-anchor="middle" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="12" letter-spacing="3">FOCUS</text>
+  <text x="1020" y="160" text-anchor="middle" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">HLD/LLD</text>
+  <text x="1020" y="200" text-anchor="middle" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">AGENTS</text>
+  <text x="1020" y="240" text-anchor="middle" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">INFRA</text>
+  <text x="1020" y="280" text-anchor="middle" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">GAMES</text>
+  <text x="1020" y="320" text-anchor="middle" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="12">IITR / EE</text>
+</svg>
