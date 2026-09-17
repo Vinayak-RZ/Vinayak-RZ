@@ -1,24 +1,25 @@
 # Hey there! I'm Vinayak Raizada
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Founder+%7C+Systems+%7C+Interactive+Systems;Game+Dev+%7C+Distributed+Systems;Applied+AI+%7C+Enterprise+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Founder+%7C+Systems+%7C+Industrial+AI;Agentic+Systems+%7C+Game+Dev;IIT+Roorkee+%7C+Building+in+Public" alt="Typing SVG" />
 </div>
 
 ---
 
 ## About Me
 
-* Building **Stamped**
+* Founder building **[Stamped](https://stamped.work)** — AI Intelligence for Industries
+* Technical founder — product, architecture, and engineering end-to-end
 * Developer at **MDG Space @ IIT Roorkee**
-* Sophomore pursuing **Electrical Engineering @ IIT Roorkee**
-* Worked across **AI systems, Web/App Dev, Game Dev, Image Processing, Web3 and Graphics**
-* Interested in **Applied AI, Distributed Systems and Making Products that actually create value**
-* Strong focus on **System Design (HLD/LLD), Game Architecture and Infrastructure**
-* Research interests include **Stegnography ,Distributed Inference or Training**
-* Looking to collaborate on **Actually solving problems with Tech**
+* Pursuing **Electrical Engineering @ IIT Roorkee**
+* Currently deep in **agentic systems**
+* Background across **AI systems, Web/App Dev, Game Dev, Image Processing, Web3, Graphics, and Systems/Infra**
+* Interested in **Applied AI, Distributed Systems, and products that create real value**
+* Strong focus on **System Design (HLD/LLD), Game Architecture, and Infrastructure**
+* Open to collaborating on **hard technical problems which create real world impact**
 
-Reach me:
-[LinkedIn](https://www.linkedin.com/in/vinayak-rz/) • [Email](mailto:vinayakraizada@gmail.com)
+More about me on [LinkedIn](https://www.linkedin.com/in/vinayak-rz/).  
+Reach me: [LinkedIn](https://www.linkedin.com/in/vinayak-rz/) • [Email](mailto:vinayakraizada@gmail.com)
 
 ---
 
@@ -33,20 +34,22 @@ Reach me:
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
-![Cadence](https://img.shields.io/badge/-Cadence-000000?style=for-the-badge)
 
 ### Backend / Systems
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-### AI / Data
+### AI / Agents
 
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-5A67D8?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
@@ -93,33 +96,33 @@ Reach me:
 
 <div align="center">
 
+### [ARC](https://github.com/Vinayak-RZ/ARC)
+
+Open-source agentic electrical engineer — packs, lab workflows, and verified numbers over guesswork.
+
+### [WABOX](https://github.com/Vinayak-RZ/WABOX)
+
+Lightweight native Windows sandbox for AI agents, built for sub-agents and swarms.
+
 ### [ContentOS](https://github.com/Vinayak-RZ/Content-OS)
 
-Content OS for discovering ideas, drafting in your voice and publishing on your terms.
-
-### [Chronicle](https://github.com/officiallyutso/chronicle)
-
-Local-first AI activity intelligence system with semantic indexing and privacy-first workflows.
-
-### [Chrono](https://github.com/ArcaneStdio/Chrono)
-
-Time-aware DeFi lending protocol with deterministic expiries and custom financial modeling.
+Workflow for finding what’s worth saying, drafting in your voice, and publishing on your terms.
 
 ### [Arcane: Chains of Eternity](https://github.com/ArcaneStdio/Chains-Of-Eternity)
 
 Skill-based Web3 RPG combining gameplay systems with on-chain economies.
 
-### [Astrikos](https://github.com/officiallyutso/astrikos-high-prep)
-
-3D infrastructure and smart-city visualization platform using geospatial systems.
-
 ### [CyroFuzion](https://github.com/Vinayak-RZ/CyroFuzion)
 
-Cross-chain execution and swap infrastructure across blockchain ecosystems.
+Cross-chain swap extension enabling execution between Ethereum and StarkNet.
+
+### [Chrono](https://github.com/ArcaneStdio/Chrono)
+
+Time-aware DeFi lending protocol with deterministic expiries and custom financial modeling.
 
 ### [Resilient Watermarking Library](https://github.com/Stamp-ed/resilient-watermarking-pipeline)
 
-Signal-processing based invisible watermarking system resilient to compression and transformations.
+Signal-processing based invisible watermarking resilient to compression and transforms.
 
 </div>
 
@@ -151,6 +154,6 @@ Signal-processing based invisible watermarking system resilient to compression a
 
 <div align="center">
 
-Systems • Infrastructure • Interactive Computing
+Systems • Agentic Systems • Industrial AI
 
 </div>
