@@ -50,6 +50,20 @@
 <br/>
 
 <div align="center">
+<img src="./assets/activity-header.png" width="100%" alt="Activity" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/streak.png" height="180" alt="GitHub streak" />
+<br/>
+<img src="./assets/stats.png" width="100%" alt="GitHub stats" />
+</div>
+
+<br/>
+
+<div align="center">
 
 ---
 
