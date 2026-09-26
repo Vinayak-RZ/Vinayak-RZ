@@ -5,7 +5,7 @@ const path = require("path");
 
 const OUT = path.join(__dirname, "..", "assets");
 const SIZE = 128;
-const PAD = 26;
+const PAD = 36;
 const ICON = SIZE - PAD * 2;
 
 async function whiteTile(name, inputBuf, { dropBlack = false } = {}) {
