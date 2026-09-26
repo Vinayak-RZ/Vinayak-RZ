@@ -4,21 +4,37 @@
 
 <br/>
 
-<a href="https://stamped.work" title="Stamped">
-  <img src="./assets/stamped-logo.png" alt="Stamped" height="44" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vinayak-rz/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E11D48" alt="LinkedIn" height="44" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:vinayakraizada@gmail.com" title="Email">
-  <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E11D48" alt="Email" height="44" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Vinayak-RZ" title="GitHub">
-  <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=github&logoColor=E11D48" alt="GitHub" height="44" />
-</a>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="72">
+      <a href="https://stamped.work" title="Stamped">
+        <img src="./assets/connect-stamped.png" width="56" height="56" alt="Stamped" />
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center" width="72">
+      <a href="https://www.linkedin.com/in/vinayak-rz/" title="LinkedIn">
+        <img src="./assets/connect-linkedin.png" width="56" height="56" alt="LinkedIn" />
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center" width="72">
+      <a href="mailto:vinayakraizada@gmail.com" title="Email">
+        <img src="./assets/connect-email.png" width="56" height="56" alt="Email" />
+      </a>
+    </td>
+    <td width="16"></td>
+    <td align="center" width="72">
+      <a href="https://github.com/Vinayak-RZ" title="GitHub">
+        <img src="./assets/connect-github.png" width="56" height="56" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 </div>
 
