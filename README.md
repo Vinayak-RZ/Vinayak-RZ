@@ -4,13 +4,21 @@
 
 <br/>
 
-**[Stamped](https://stamped.work)**
-&nbsp;&nbsp;|&nbsp;&nbsp;
-**[LinkedIn](https://www.linkedin.com/in/vinayak-rz/)**
-&nbsp;&nbsp;|&nbsp;&nbsp;
-**[Email](mailto:vinayakraizada@gmail.com)**
-&nbsp;&nbsp;|&nbsp;&nbsp;
-**[GitHub](https://github.com/Vinayak-RZ)**
+<a href="https://stamped.work" title="Stamped">
+  <img src="./assets/stamped-logo.png" alt="Stamped" height="44" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vinayak-rz/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E11D48" alt="LinkedIn" height="44" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:vinayakraizada@gmail.com" title="Email">
+  <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E11D48" alt="Email" height="44" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Vinayak-RZ" title="GitHub">
+  <img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge&logo=github&logoColor=E11D48" alt="GitHub" height="44" />
+</a>
 
 </div>
 
