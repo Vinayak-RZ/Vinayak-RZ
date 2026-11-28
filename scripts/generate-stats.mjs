@@ -97,8 +97,8 @@ const cards = rows
     return `
   <rect x="${x}" y="${y}" width="520" height="${rowH}" fill="#18181b" stroke="#27272a" stroke-width="1"/>
   <rect x="${x}" y="${y}" width="6" height="${rowH}" fill="#e11d48"/>
-  <text x="${x + 24}" y="${y + 28}" fill="#a3a3a3" font-family="Consolas, Monaco, monospace" font-size="14">${esc(label)}</text>
-  <text x="${x + 496}" y="${y + 28}" text-anchor="end" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">${esc(value)}</text>`;
+  <text x="${x + 24}" y="${y + 28}" fill="#a3a3a3" font-family="Profile Mono, monospace" font-size="14">${esc(label)}</text>
+  <text x="${x + 496}" y="${y + 28}" text-anchor="end" fill="#fafafa" font-family="Profile Sans, sans-serif" font-size="20" font-weight="700">${esc(value)}</text>`;
   })
   .join("\n");
 
@@ -106,9 +106,9 @@ const height = startY + 3 * (rowH + 16) + 40;
 
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="${height}" viewBox="0 0 1200 ${height}">
   <rect width="1200" height="${height}" fill="#0a0a0a"/>
-  <text x="40" y="42" fill="#e11d48" font-family="Consolas, Monaco, monospace" font-size="13" letter-spacing="4">GITHUB STATS</text>
-  <text x="40" y="78" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">${esc(u.name || login)}</text>
-  <text x="1160" y="78" text-anchor="end" fill="#525252" font-family="Consolas, Monaco, monospace" font-size="12">updated by action · no live widget</text>
+  <text x="40" y="42" fill="#e11d48" font-family="Profile Mono, monospace" font-size="13" letter-spacing="4">GITHUB STATS</text>
+  <text x="40" y="78" fill="#fafafa" font-family="Profile Sans, sans-serif" font-size="28" font-weight="700">${esc(u.name || login)}</text>
+  <text x="1160" y="78" text-anchor="end" fill="#525252" font-family="Profile Mono, monospace" font-size="12">updated by action · no live widget</text>
 ${cards}
 </svg>
 `;

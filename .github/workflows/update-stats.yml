@@ -2,6 +2,9 @@ name: Update activity stats
 
 # Generates static PNGs into assets/ so the README never depends on
 # flaky live widget hosts (Heroku / paused Vercel deployments).
+# Panels are drawn with the fonts in scripts/fonts. Runner images do not
+# ship Segoe UI / Arial / Consolas, and resvg silently skips text it cannot
+# match, which is what blanked the streak counts and stat values.
 
 on:
   schedule:
@@ -11,6 +14,8 @@ on:
     branches: [main]
     paths:
       - "scripts/generate-stats.mjs"
+      - "scripts/rasterize-assets.mjs"
+      - "scripts/fonts/**"
       - ".github/workflows/update-stats.yml"
 
 permissions:
@@ -33,7 +38,7 @@ jobs:
           node-version: "20"
 
       - name: Install resvg
-        run: npm install --no-save @resvg/resvg-js
+        run: npm install --no-save @resvg/resvg-js@2.6.2
 
       - name: Generate streak SVG (action, no live host)
         uses: DenverCoder1/github-readme-streak-stats@main
@@ -49,30 +54,7 @@ jobs:
         run: node scripts/generate-stats.mjs
 
       - name: Rasterize panels to PNG
-        run: |
-          node <<'EOF'
-          const { Resvg } = require('@resvg/resvg-js');
-          const fs = require('fs');
-          const path = require('path');
-          const dir = 'assets';
-          const files = [
-            ['activity-header.svg', 2400],
-            ['streak.svg', 1200],
-            ['stats.svg', 2400],
-          ];
-          for (const [name, width] of files) {
-            const svgPath = path.join(dir, name);
-            if (!fs.existsSync(svgPath)) {
-              console.error('missing', svgPath);
-              process.exit(1);
-            }
-            const svg = fs.readFileSync(svgPath);
-            const resvg = new Resvg(svg, { fitTo: { mode: 'width', value: width } });
-            const pngName = name.replace(/\.svg$/, '.png');
-            fs.writeFileSync(path.join(dir, pngName), resvg.render().asPng());
-            console.log('wrote', pngName);
-          }
-          EOF
+        run: node scripts/rasterize-assets.mjs
 
       - name: Commit if changed
         run: |
